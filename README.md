@@ -6,11 +6,7 @@ Gather spotify popularity data for songs in an album.
 
 IN PROGRESS:
 
-2. store previously collected albums in a local cache database
-    - ignore database in git
-    - python code to check db before checking spotify
-    - python code to add new data to db
-
+2. quantify how the popularity of an album changes with time or num of songs
 
 COMPLETED:
 
